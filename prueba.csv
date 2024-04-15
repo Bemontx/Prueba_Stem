@@ -1,0 +1,1277 @@
+Categoria,Palabra,Frecuencia
+Tipo de producto,cultura,1
+Tipo de producto,tendencia,5
+Tipo de producto,salud,6
+Tipo de producto,cultura,2
+Tipo de producto,tendencia,8
+Tipo de producto,salud,2
+Tipo de producto,bebidas,3
+Tipo de producto,alcohol,9
+Valor,amor,173
+Valor,experiencia,184
+Beneficio,disfrutar,61
+Valor,cultura,118
+Asociación,tendencia,188
+Beneficio,salud,137
+Característica,forma,200
+Tipo de producto,cocteles,161
+Valor,innovación,97
+Tipo de producto,cerveza,13
+Valor,mundo,133
+Actividad,presentación,48
+Característica,variedad,184
+Tipo de producto,tequila,6
+Valor,creatividad,118
+Beneficio,evolución,19
+Valor,diversidad,38
+Actividad,consumo,40
+Actividad,cambio,52
+Atributo,original,53
+Característica,sabor,198
+Característica,lata,187
+Tipo de producto,bebida,63
+Actividad,celebración,83
+Actividad,beber,169
+Atributo,refrescante,36
+Atributo,opción,131
+Atributo,clásico,158
+Atributo,cafeína,209
+Beneficio,bienestar,160
+Beneficio,equilibrio,76
+Beneficio,interés,10
+Beneficio,versatilidad,121
+Beneficio,popular,72
+Característica,blanco,169
+Característica,botella,156
+Ocasión,brindis,127
+Ocasión,mercado,5
+Atributo,calidad,10
+Atributo,calorías,202
+Atributo,buena,104
+Beneficio,atención,172
+Beneficio,oferta,51
+Característica,ingrediente,108
+Característica,marca,31
+Característica,hielo,47
+Característica,tamaño,159
+Característica,internacional,137
+Característica,versátil,192
+Problema,exceso,165
+Tipo de consumidor,amigos,21
+Tipo de consumidor,día,106
+Tipo de producto,mezcla,9
+Tipo de producto,receta,148
+Tipo de producto,casa,45
+Tipo de producto,agua,41
+Tipo de producto,tecnología,113
+Valor,cuidado,184
+Valor,valor,125
+Valor,historia,79
+Actividad,tomar,66
+Actividad,compartir,191
+Actividad,camino,175
+Actividad,viaje,129
+Actividad,cuenta,66
+Asociación,conciencia,65
+Asociación,moda,187
+Asociación,naturaleza,58
+Asociación,ciencia,204
+Asociación,playa,93
+Atributo,especial,137
+Atributo,saludable,39
+Atributo,único,162
+Atributo,conocido,107
+Atributo,común,65
+Atributo,vanguardista,129
+Beneficio,enfoque,43
+Beneficio,capacidad,84
+Beneficio,físico,144
+Beneficio,placer,127
+Beneficio,alegría,198
+Beneficio,placer,125
+Beneficio,estabilidad,194
+Beneficio,emoción,83
+Beneficio,dinámico,10
+Beneficio,sobriedad,170
+Beneficio,oportunidad,128
+Beneficio,responsable,139
+Característica,aire,119
+Característica,gas,145
+Característica,integral,71
+Característica,estilo,177
+Característica,frío,105
+Característica,tradicional,60
+Característica,calor,82
+Característica,líquido,79
+Característica,dulzura,100
+Característica,elegante,46
+Característica,gama,77
+Característica,estética,44
+Característica,línea,78
+Característica,profunda,91
+Característica,parte,76
+Ocasión,baile,82
+Ocasión,bar,156
+Ocasión,mundial,120
+Ocasión,cuando,12
+Problema,desenfreno,101
+Tipo de consumidor,gobierno,13
+Tipo de consumidor,estado,30
+Tipo de producto,licor,42
+Tipo de producto,soda,52
+Tipo de producto,café,53
+Tipo de producto,deportivo,100
+Tipo de producto,chocolate,123
+Tipo de producto,productos,156
+Valor,felicidad,135
+Valor,vida,42
+Valor,amistad,68
+Valor,compañía,192
+Valor,pasión,150
+Valor,tradicional,83
+Valor,libre,80
+Valor,esencial,140
+Actividad,escucha,55
+Actividad,estudio,43
+Actividad,meditación,71
+Actividad,aislamiento,95
+Actividad,ejercicio,28
+Actividad,correr,166
+Actividad,disposición,136
+Actividad,hidratación,55
+Actividad,propina,140
+Actividad,trotar,186
+Actividad,alimentación,173
+Actividad,deporte,11
+Actividad,nutrición,65
+Actividad,respiración,89
+Actividad,combinar,180
+Actividad,morir,135
+Actividad,festejo,16
+Actividad,reír,86
+Actividad,perrear,120
+Actividad,parchar,134
+Actividad,bailar,123
+Actividad,conversación,54
+Actividad,explosión,196
+Actividad,esparcimiento,173
+Actividad,cuidarse,124
+Actividad,dormir,208
+Actividad,incremento,70
+Actividad,pagar,41
+Actividad,pago,192
+Actividad,aumento,67
+Actividad,cobro de dinero,122
+Actividad,gasto,12
+Actividad,pagar por producto,18
+Actividad,pago adicional,45
+Actividad,pago obligatorio,109
+Actividad,recaudo,184
+Actividad,sanción,121
+Actividad,robar,69
+Actividad,balanceo,177
+Actividad,buen hábito,198
+Actividad,comer saludable,198
+Actividad,dieta,60
+Actividad,nutrirse bien,36
+Actividad,buena alimentación,32
+Actividad,descansar,102
+Actividad,yoga,187
+Actividad,alimentación vegetal,117
+Actividad,abstinencia,44
+Actividad,alimentación sana,115
+Actividad,estilo de vida,79
+Actividad,no consumo animal,201
+Actividad,traducir,93
+Actividad,almuerzo,14
+Actividad,despertar,68
+Actividad,amar,64
+Actividad,publicidad,133
+Actividad,cena,61
+Actividad,emisión,157
+Actividad,comer,85
+Actividad,hidratar,72
+Actividad,toca,65
+Actividad,fotografía,162
+Actividad,carga,128
+Actividad,reinicio,86
+Actividad,running,64
+Actividad,recreación,166
+Actividad,movimiento,100
+Actividad,vestir,5
+Actividad,impactar,205
+Actividad,fitness,172
+Actividad,esfuerzo,185
+Actividad,vuelo,80
+Actividad,viajar,95
+Actividad,venir,77
+Actividad,conocer,40
+Actividad,pasear,76
+Actividad,turismo,152
+Actividad,paseo,167
+Actividad,conform,199
+Actividad,vacación,187
+Actividad,volar,172
+Actividad,vacaciones avión,195
+Actividad,vivir,97
+Actividad,tur,41
+Actividad,tour,94
+Actividad,plan,69
+Actividad,unión,135
+Actividad,limpieza de diente,154
+Actividad,3 veces en el día,129
+Actividad,sonría,124
+Actividad,lavar,146
+Actividad,tratamiento,139
+Actividad,rutina,171
+Actividad,traducción,55
+Actividad,uso diario,194
+Actividad,sonreír,162
+Actividad,brillar,14
+Actividad,practicar,7
+Actividad,investigar,167
+Actividad,cepillar,94
+Asociación,mente,43
+Asociación,tiempo,80
+Asociación,diente,152
+Asociación,medicina,74
+Asociación,dian,31
+Asociación,economía,156
+Asociación,ley,84
+Asociación,conocimiento,154
+Asociación,cerebro,114
+Asociación,neurona,196
+Asociación,filosofía,45
+Asociación,planeta,10
+Asociación,doctrina,180
+Asociación,animal,13
+Asociación,chispa en tu boca,35
+Asociación,oso polar,29
+Asociación,papa noel,189
+Asociación,chispa,172
+Asociación,chispa de la vida,162
+Asociación,colombia,51
+Asociación,riñón,182
+Asociación,corea del sur,122
+Asociación,paisaje,84
+Asociación,corea,199
+Asociación,competidor de iphone,144
+Asociación,alemania,21
+Asociación,tres rayas,20
+Asociación,3 rayas,71
+Asociación,asociacion,147
+Asociación,asociar,107
+Asociación,cielo,36
+Asociación,país,135
+Asociación,aeropuerto,150
+Asociación,pueblo,32
+Asociación,pájaro,104
+Asociación,nube,200
+Asociación,comunidad,8
+Asociación,asociación,209
+Asociación,destino,176
+Asociación,ciudad,48
+Asociación,asociarse,165
+Asociación,asola,179
+Asociación,corazón,79
+Asociación,rojo-blanco-azul,164
+Asociación,palabra,180
+Atributo,complemento,123
+Atributo,suplemento,177
+Atributo,sano,120
+Atributo,frescura,31
+Atributo,fino,65
+Atributo,agradable,136
+Atributo,novedoso,187
+Atributo,nutritivo,204
+Atributo,rico,179
+Atributo,delicioso,39
+Atributo,digestivo,60
+Atributo,exquisito,75
+Atributo,práctica,182
+Atributo,sabrosa,177
+Atributo,injusto,95
+Atributo,caro,119
+Atributo,real,67
+Atributo,suplementación,68
+Atributo,dietético,81
+Atributo,animal-free,85
+Atributo,poco consumo,59
+Atributo,limitado,110
+Atributo,bueno,61
+Atributo,cruelty-free,51
+Atributo,alimenticio,80
+Atributo,fresco,156
+Atributo,sin origen animal,141
+Atributo,pet-friendly,120
+Atributo,activo,44
+Atributo,ético,27
+Atributo,amigable,140
+Atributo,poco saludable,6
+Atributo,rigor,92
+Atributo,innovador,33
+Atributo,beneficioso,170
+Atributo,decidido,126
+Atributo,restricción,136
+Atributo,rígido,197
+Atributo,gourmet,52
+Atributo,venenosidad,48
+Atributo,nutricional,111
+Atributo,extremo,86
+Atributo,malo,126
+Atributo,peligroso,96
+Atributo,dañino,126
+Atributo,excelente,122
+Atributo,sensación,210
+Atributo,adicción,188
+Atributo,mejor,126
+Atributo,sabroso,198
+Atributo,sentimiento,123
+Atributo,vendido,199
+Atributo,increíble,85
+Atributo,adictivo,22
+Atributo,siempre,40
+Atributo,precio,76
+Atributo,contiene azúcar,210
+Atributo,accesible,178
+Atributo,adición,175
+Atributo,barato,107
+Atributo,inigualable,103
+Atributo,antojos,52
+Atributo,variado,177
+Atributo,favorito,174
+Atributo,competitivo,110
+Atributo,renombrado,114
+Atributo,espectacular,74
+Atributo,relajante,110
+Atributo,comercial,130
+Atributo,ubíquo,65
+Atributo,deleitoso,15
+Atributo,sobrevalorado,71
+Atributo,apetitosa,25
+Atributo,llamativo,20
+Atributo,incomparable,91
+Atributo,comerciales,53
+Atributo,placentero,129
+Atributo,frío con hielo,132
+Atributo,insuperable,61
+Atributo,feo,201
+Atributo,exquisita,116
+Atributo,frío malo,192
+Atributo,tiene,67
+Atributo,seguridad,26
+Atributo,garantía,70
+Atributo,líder,119
+Atributo,muy bueno,56
+Atributo,genial,207
+Atributo,divino,133
+Atributo,linda,19
+Atributo,originalidad,118
+Atributo,originalidad comodidad,112
+Atributo,simplicidad,37
+Atributo,comodidad estilo,125
+Atributo,caro y tenis,200
+Atributo,aroma sensacional,83
+Atributo,resistente,67
+Atributo,estilo bonito,47
+Atributo,liviana,60
+Atributo,casual,143
+Atributo,flexibilidad,37
+Atributo,cómoda,128
+Atributo,ir con todo,48
+Atributo,multifuncional,194
+Atributo,diseño exclusivo,178
+Atributo,outfit perfecto,58
+Atributo,diferente estilo,29
+Atributo,duradera,111
+Atributo,informal,166
+Atributo,larga duración,182
+Atributo,retro,29
+Atributo,movilidad,65
+Atributo,servicio al cliente,42
+Atributo,precio alto,201
+Atributo,gozar,70
+Atributo,favorable,133
+Atributo,blanquear,24
+Atributo,gustar,39
+Atributo,excelentísimo,207
+Atributo,blanqueador,96
+Atributo,conocida,71
+Atributo,limpia,176
+Atributo,brillo,208
+Atributo,directo,135
+Atributo,blanqueamiento,197
+Atributo,mentado,178
+Atributo,buenísimo,175
+Atributo,max white,106
+Atributo,eficaz,59
+Atributo,número 1,51
+Atributo,brillante,103
+Atributo,estético,19
+Atributo,parabeno,210
+Atributo,asequible,20
+Atributo,clarísimo,177
+Atributo,mil,208
+Beneficio,vitalidad,122
+Beneficio,actividad cerebral,46
+Beneficio,análisis,169
+Beneficio,disponibilidad,90
+Beneficio,entendimiento,167
+Beneficio,memoria,139
+Beneficio,inteligencia,184
+Beneficio,mejoría,203
+Beneficio,actividad neuronal,88
+Beneficio,estar pilas,30
+Beneficio,productividad,134
+Beneficio,tranquilidad,92
+Beneficio,reflexión,161
+Beneficio,aguante,14
+Beneficio,concentración,86
+Beneficio,rendimiento,92
+Beneficio,actividad física,80
+Beneficio,autocontrol,102
+Beneficio,control mental,152
+Beneficio,defensa,107
+Beneficio,estrategia,157
+Beneficio,fuerza mental,82
+Beneficio,grandeza,116
+Beneficio,potencia,127
+Beneficio,tener vitalidad y energía,40
+Beneficio,agilidad,16
+Beneficio,calidad de vida,58
+Beneficio,poder,207
+Beneficio,rapidez,119
+Beneficio,acondicionamiento físico,158
+Beneficio,actividad,169
+Beneficio,beneficio,158
+Beneficio,bueno actitud,112
+Beneficio,dinamismo,103
+Beneficio,entusiasmo,194
+Beneficio,fuerza,151
+Beneficio,promedio de vida,53
+Beneficio,resistencia,61
+Beneficio,vigor,183
+Beneficio,higiene,51
+Beneficio,limpieza,11
+Beneficio,protección,95
+Beneficio,sonrisa,182
+Beneficio,aliento fresco,5
+Beneficio,diversión,186
+Beneficio,relax,44
+Beneficio,energía,76
+Beneficio,disfrute,110
+Beneficio,encanto,63
+Beneficio,presupuesto,123
+Beneficio,belleza,70
+Beneficio,buena vida,38
+Beneficio,gusto,79
+Beneficio,mantenerse en forma,62
+Beneficio,mejor rendimiento físico,165
+Beneficio,sanidad,19
+Beneficio,satisfecho,20
+Beneficio,vida saludable,14
+Beneficio,comodidad,33
+Beneficio,cuerpo sano,173
+Beneficio,concentrado,46
+Beneficio,salud mental,156
+Beneficio,nutrición sana,202
+Beneficio,buena digestión,170
+Beneficio,delgadez,205
+Beneficio,consciente,9
+Beneficio,refrescar,47
+Beneficio,satisfacción,29
+Beneficio,prestigio,196
+Beneficio,deleite,175
+Beneficio,saciante,23
+Beneficio,energizante,55
+Beneficio,hidratante,189
+Beneficio,remedio,91
+Beneficio,relajo,88
+Beneficio,inevitable,49
+Beneficio,encantarse,54
+Beneficio,feliz,75
+Beneficio,famoso,208
+Beneficio,marcar la diferencia,148
+Beneficio,posicionamiento,47
+Beneficio,gozo,116
+Beneficio,relajación,53
+Beneficio,delicio,204
+Beneficio,quitar la sed,117
+Beneficio,comfidencia,81
+Beneficio,gusta,36
+Beneficio,difrutar,39
+Beneficio,crecimiento,153
+Beneficio,excelencia,32
+Beneficio,novedad,198
+Beneficio,confiabilidad,137
+Beneficio,durabilidad,20
+Beneficio,exclusividad,126
+Beneficio,confianza,177
+Beneficio,duración,35
+Beneficio,servicio,48
+Beneficio,buen precio,91
+Beneficio,para toda la vida,98
+Beneficio,conectividad,68
+Beneficio,eficacia,165
+Beneficio,de buena calidad,198
+Beneficio,futuro,112
+Beneficio,buen servicio,163
+Beneficio,caso de éxito,65
+Beneficio,avance,189
+Beneficio,última tecnología,190
+Beneficio,buen producto,147
+Beneficio,rentable,178
+Beneficio,entretenimiento,56
+Beneficio,confiable,101
+Beneficio,mejora,155
+Beneficio,respaldo,110
+Beneficio,vanguardia,193
+Beneficio,facilidad,198
+Beneficio,buena calidad,175
+Beneficio,duradero,45
+Beneficio,ecosistema,93
+Beneficio,buena calidad de imagen,208
+Beneficio,calma,107
+Beneficio,mágico,11
+Beneficio,comunicación,158
+Beneficio,lujo,182
+Beneficio,servicio de calidad,81
+Beneficio,mejor cámara,155
+Beneficio,completo,121
+Beneficio,repuesto económico,29
+Beneficio,ahorro,70
+Beneficio,excelente producto,54
+Beneficio,excelente marca,144
+Beneficio,confort,83
+Beneficio,estatus,106
+Beneficio,confortable,33
+Beneficio,pureza,54
+Beneficio,exclusivo,186
+Beneficio,fama,53
+Beneficio,garantizada,188
+Beneficio,conformidad,32
+Beneficio,voluntad,55
+Beneficio,buena marca,146
+Beneficio,caché,154
+Beneficio,revolucionario,180
+Beneficio,nivel,53
+Beneficio,seguro,45
+Beneficio,libertad,98
+Beneficio,cotizado,175
+Beneficio,variación,183
+Beneficio,merecer,6
+Beneficio,buen gusto,42
+Beneficio,todo terreno,67
+Beneficio,inversión,93
+Beneficio,reconocimiento mundial,145
+Beneficio,precio-variedad-familia-regalo-durabilidad,106
+Beneficio,promoción,152
+Beneficio,glamour,15
+Beneficio,util,100
+Beneficio,cumplimiento,21
+Beneficio,tarifa baja,101
+Beneficio,satisfaccion,136
+Beneficio,puntualidad,163
+Beneficio,lujoso,166
+Beneficio,accesibilidad,114
+Beneficio,amabilidad,143
+Beneficio,cortesía,183
+Beneficio,marca conocida,55
+Beneficio,eterno,110
+Beneficio,aventura,188
+Beneficio,regular,116
+Beneficio,seguro,52
+Beneficio,tarifa,55
+Beneficio,buen destino,123
+Beneficio,descuento,199
+Beneficio,triple acción,167
+Beneficio,sonrisa brillante,105
+Beneficio,efectivo,39
+Beneficio,aseo,137
+Beneficio,salud oral,130
+Beneficio,anticaries,102
+Beneficio,excelente calidad,170
+Beneficio,diente sano,65
+Beneficio,limpieza total,53
+Beneficio,limpieza,182
+Beneficio,freca,37
+Beneficio,higiene oral,53
+Beneficio,cuidado en salud oral,191
+Beneficio,limpieza,58
+Beneficio,acción herbal,55
+Beneficio,rico sabor,110
+Beneficio,aseo bucal,207
+Beneficio,prevención,204
+Beneficio,asepsia,144
+Beneficio,buen aliento,24
+Beneficio,sonrisa lindo,151
+Beneficio,buen sabor,150
+Beneficio,cuidado dental,116
+Beneficio,higiene bucal,45
+Beneficio,buen olor,85
+Beneficio,frescura limpieza,142
+Beneficio,buena experiencia,39
+Beneficio,sin bacteria,124
+Beneficio,Lucir bien,22
+Beneficio,buena presentación,17
+Beneficio,eficiencia,53
+Beneficio,diente saludable,206
+Beneficio,diversidad de precio,179
+Beneficio,sin mal aliento,159
+Beneficio,buen aroma,65
+Beneficio,limpiar bien,71
+Beneficio,sabor rico,166
+Beneficio,efectividad,19
+Beneficio,frescura dental,17
+Beneficio,favorita,150
+Beneficio,chévere,200
+Beneficio,beneficios,33
+Característica,crocancia,134
+Característica,surtido,150
+Característica,sin azúcar,99
+Característica,letra y número,38
+Característica,vitamina,86
+Característica,sol,200
+Característica,cebada,189
+Característica,espumoso,102
+Característica,crema,54
+Característica,color azul,135
+Característica,mentolado,47
+Característica,gaseoso,33
+Característica,burbujeante,43
+Característica,burbuja,28
+Característica,ligero,203
+Característica,transparente,204
+Característica,color,89
+Característica,color rojo/verde,46
+Característica,suavidad,178
+Característica,poco trago,157
+Característica,peso,197
+Característica,calcio,173
+Característica,letra dorada,68
+Característica,suave,182
+Característica,dulce,25
+Característica,proteína,41
+Característica,crujiente,5
+Característica,tosh,90
+Característica,avellana,103
+Característica,avena,181
+Característica,cereal,90
+Característica,chispita,139
+Característica,colombina,90
+Característica,cremosidad,208
+Característica,crocante,5
+Característica,chocolate oreo,200
+Característica,de manteca,188
+Característica,dorada,99
+Característica,ducales,156
+Característica,duro,16
+Característica,harina,108
+Característica,kiwi,190
+Característica,redondo,44
+Característica,relleno,47
+Característica,sal,147
+Característica,salado,91
+Característica,saltín de manteca,101
+Característica,costo,14
+Característica,costo alto,57
+Característica,costoso,183
+Característica,dinero de más,118
+Característica,mayor precio,145
+Característica,monetario,169
+Característica,sobrecosto,194
+Característica,valor de más,90
+Característica,balanceado,11
+Característica,nutrientes,105
+Característica,fibra,14
+Característica,lácteo,129
+Característica,pequeña porción,191
+Característica,bajo en harina,152
+Característica,cero azúcar,180
+Característica,cero grasa,53
+Característica,equilibrado,204
+Característica,light,12
+Característica,sin grasa,29
+Característica,sin sodio,112
+Característica,natural,55
+Característica,verde,143
+Característica,sin grasa animal,52
+Característica,sin químico,39
+Característica,orgánico,13
+Característica,sin lácteo,14
+Característica,origen natural,162
+Característica,falta de proteínas,67
+Característica,nutriente natural,33
+Característica,sin proteína animal,14
+Característica,sin conservantes,145
+Característica,origen vegetal,12
+Característica,derivado,145
+Característica,ambiental,10
+Característica,sin sabor,148
+Característica,sin lácteos,59
+Característica,no procesado,205
+Característica,sin prueba animal,194
+Característica,sin gluten,22
+Característica,pocas calorías,5
+Característica,limpio,45
+Característica,compatible,171
+Característica,proteína vegetal,118
+Característica,sin carne,72
+Característica,liviano,161
+Característica,sin conservantes,188
+Característica,rojo,193
+Característica,diferente,83
+Característica,azúcar,72
+Característica,burbujas,23
+Característica,sabor inigualable,26
+Característica,negro,87
+Característica,marca mundial,98
+Característica,acompañamiento,50
+Característica,cuatro,153
+Característica,sprite,198
+Característica,embotellada,118
+Característica,efervescente,143
+Característica,coca cola es coca cola,133
+Característica,oscuro,58
+Característica,color negro,11
+Característica,sabor único,61
+Característica,espumosa,41
+Característica,oscuridad,151
+Característica,esencia,116
+Característica,antigüedad,41
+Característica,oscura,162
+Característica,tamaño diverso,80
+Característica,sabor delicioso,179
+Característica,tamaño personal,60
+Característica,del valle,134
+Característica,soleado,204
+Característica,diet coke,23
+Característica,chispeante,195
+Característica,coca cola,192
+Característica,económico,28
+Característica,intensidad,27
+Característica,sodio,36
+Característica,azucarado,132
+Característica,tamaño litro,38
+Característica,multinacional,84
+Característica,nivel mundial,43
+Característica,colorante,69
+Característica,marca reconocida,55
+Característica,rojo y blanco,202
+Característica,negra,110
+Característica,efervescencia,61
+Característica,ícono,106
+Característica,universal,106
+Característica,empresa grande,162
+Característica,grande,129
+Característica,diseño,155
+Característica,picante,68
+Característica,empresa,63
+Característica,reconocida en el mundo,159
+Característica,moreno,62
+Característica,moderno,97
+Característica,nitidez,137
+Característica,imagen,17
+Característica,móvil,198
+Característica,sobrio,98
+Característica,apple,198
+Característica,práctico,63
+Característica,delgado,139
+Característica,hermoso,143
+Característica,fácil de usar,191
+Característica,sonido,151
+Característica,bonito,10
+Característica,rápido,67
+Característica,gris,15
+Característica,gama media,13
+Característica,cómodo,49
+Característica,elegancia,116
+Característica,lento,53
+Característica,fuerte,24
+Característica,inteligente,112
+Característica,creativo,142
+Característica,fácil,154
+Característica,velocidad,120
+Característica,raya,138
+Característica,estilo viejo,69
+Característica,hoja,101
+Característica,cálido,153
+Característica,audacia,167
+Característica,primero,185
+Característica,lindo,15
+Característica,ala,17
+Característica,cobertura,198
+Característica,clase,171
+Característica,tropical,190
+Característica,motor,15
+Característica,alto cubrimiento,53
+Característica,ruta,209
+Característica,altura,195
+Característica,finura,158
+Característica,milla,20
+Característica,sensibilidad,79
+Característica,delicadeza,58
+Característica,menta,202
+Característica,tres colores,150
+Característica,boca,44
+Característica,cerca,207
+Característica,aliento,154
+Característica,dental,57
+Característica,palmolive,61
+Característica,diente blanco,128
+Característica,blancura,116
+Característica,azul,42
+Característica,dentadura,78
+Característica,diente limpio,54
+Característica,listerine,63
+Característica,marca colgate,117
+Característica,oral dental,87
+Característica,lengua,183
+Característica,oral,52
+Característica,diversidad de producto,196
+Característica,cremo,30
+Característica,aroma,64
+Característica,marca líder,155
+Característica,diente blanco y sano,196
+Característica,flúor,171
+Característica,marca antigua,180
+Característica,tamaño grande,110
+Característica,colorido,130
+Característica,sabor a menta,19
+Característica,marca tradicional,66
+Característica,colgate,184
+Característica,coco,160
+Característica,empaque,185
+Característica,litro,59
+Característica,colores,145
+Característica,pistacho,189
+Característica,vainilla,104
+Característica,general,67
+Característica,peso,197
+Característica,alpina,186
+Característica,fresa,6
+Característica,d1,120
+Característica,silk,166
+Característica,misma,56
+Característica,golden,187
+Característica,empaques,15
+Característica,fría,191
+Característica,milk,10
+Ocasión,mecato,112
+Ocasión,merienda,136
+Ocasión,pausa,25
+Ocasión,descanso,207
+Ocasión,rumba,148
+Ocasión,borrachera,137
+Ocasión,farrad,53
+Ocasión,pachanga,63
+Ocasión,parranda,18
+Ocasión,franachela,125
+Ocasión,fiesta,156
+Ocasión,snack,206
+Ocasión,antojo,37
+Ocasión,entre días,24
+Ocasión,pasaboca,102
+Ocasión,postre,54
+Ocasión,tentempié,60
+Ocasión,horario,51
+Ocasión,navidad,72
+Ocasión,festividad,58
+Ocasión,entre amigos,140
+Ocasión,diciembre,159
+Ocasión,mundial de fútbol,133
+Ocasión,museo,167
+Ocasión,caravana,95
+Ocasión,hogar,132
+Ocasión,cine,78
+Ocasión,toda ocasión,101
+Ocasión,transición,178
+Ocasión,deportes,13
+Ocasión,días,185
+Ocasión,mañana,70
+Ocasión,momento,185
+Ocasión,desayuno,43
+Ocasión,semana,101
+Ocasión,tarde,72
+Ocasión,noche,179
+Ocasión,hora,196
+Problema,maluquera,197
+Problema,arrepentimiento,111
+Problema,dolor de cabeza,106
+Problema,incomodidad,173
+Problema,vista borroso,155
+Problema,sueño,108
+Problema,sed,187
+Problema,malestar,149
+Problema,resaca,151
+Problema,pereza,27
+Problema,cansancio,124
+Problema,hambre,160
+Problema,guayabo,40
+Problema,enfermedad,156
+Problema,deuda,162
+Problema,inflación,61
+Problema,obligación,166
+Problema,desespero,134
+Problema,estrés,181
+Problema,perdido,157
+Problema,debilidad,143
+Problema,locura,5
+Problema,psicótico,117
+Problema,déficit de vitaminas,118
+Problema,veneno,161
+Problema,vicio,81
+Problema,diabetes,146
+Problema,desenguayabo,127
+Problema,hipertensión,132
+Problema,presión alta,163
+Problema,engordador,9
+Problema,ansiedad,94
+Problema,cáncer,112
+Problema,explotación,133
+Problema,mala salud,187
+Problema,insalubre,176
+Problema,nocivo,195
+Problema,caluroso,160
+Problema,no saludable,49
+Problema,perjudicial,191
+Problema,daño,115
+Problema,no tomo,115
+Problema,dañina,66
+Problema,lentitud,183
+Problema,ropa cara,175
+Problema,haber,108
+Problema,calidad cuestionable,63
+Problema,consumismo,77
+Problema,pésimo servicio,132
+Problema,pésimo,23
+Problema,lo peor,42
+Problema,queja,101
+Problema,insatisfecho,91
+Problema,decepción,189
+Problema,mal servicio,117
+Problema,estafa,104
+Problema,tiquete caro,59
+Problema,horrible,95
+Problema,demora,144
+Problema,problema,181
+Problema,impunidad,13
+Problema,incumplido,151
+Problema,incumplimiento,94
+Problema,no lo volvería a tomar,43
+Problema,impuntualidad,186
+Problema,carie,80
+Problema,sarro,133
+Problema,mal,93
+Tipo de consumidor,vigilante,101
+Tipo de consumidor,acompañante,14
+Tipo de consumidor,amigo,150
+Tipo de consumidor,edad,210
+Tipo de consumidor,adulto,202
+Tipo de consumidor,niño,68
+Tipo de consumidor,contador,17
+Tipo de consumidor,familia,15
+Tipo de consumidor,vegetariano,85
+Tipo de consumidor,naturalista,163
+Tipo de consumidor,activista,21
+Tipo de consumidor,animalista,72
+Tipo de consumidor,naturista,90
+Tipo de consumidor,familiar,20
+Tipo de consumidor,mujer,41
+Tipo de consumidor,familia y amigo,81
+Tipo de consumidor,miguel,76
+Tipo de consumidor,colectivo,154
+Tipo de consumidor,mujeres,122
+Tipo de consumidor,asia,147
+Tipo de consumidor,oriental,139
+Tipo de consumidor,japonés,190
+Tipo de consumidor,grupo,9
+Tipo de consumidor,atleta,200
+Tipo de consumidor,messi,151
+Tipo de consumidor,cultura pop,49
+Tipo de consumidor,millonario,33
+Tipo de consumidor,americano,35
+Tipo de consumidor,deportista,74
+Tipo de consumidor,deportivo del mundo,6
+Tipo de consumidor,personalidad,75
+Tipo de consumidor,joven,172
+Tipo de consumidor,intelectual,41
+Tipo de consumidor,aida,10
+Tipo de consumidor,selección colombia,179
+Tipo de consumidor,piloto,107
+Tipo de consumidor,empresarial,81
+Tipo de consumidor,azafata,147
+Tipo de consumidor,persona,176
+Tipo de consumidor,pasajero,53
+Tipo de consumidor,colombiana,114
+Tipo de consumidor,mecánico,112
+Tipo de consumidor,gente,23
+Tipo de consumidor,azafate,181
+Tipo de consumidor,empresa nacional,138
+Tipo de consumidor,cliente,134
+Tipo de consumidor,destino nacional e internacional,82
+Tipo de consumidor,dentista,17
+Tipo de consumidor,colombiano,145
+Tipo de consumidor,dientes odontología,207
+Tipo de consumidor,maría,8
+Tipo de consumidor,diana,147
+Tipo de consumidor,personas,126
+Tipo de consumidor,hatsu,48
+Tipo de consumidor,hija,20
+Tipo de consumidor,mamá,44
+Tipo de consumidor,bruno,156
+Tipo de consumidor,isabel,143
+Tipo de consumidor,hijos,98
+Tipo de consumidor,ricardo,120
+Tipo de consumidor,david,89
+Tipo de consumidor,jamie,43
+Tipo de consumidor,alejandra,133
+Tipo de consumidor,tomas,25
+Tipo de consumidor,edgardo,44
+Tipo de consumidor,luis,51
+Tipo de consumidor,john,124
+Tipo de consumidor,grupos,24
+Tipo de consumidor,laura,192
+Tipo de consumidor,césar,170
+Tipo de consumidor,susana,58
+Tipo de producto,cápsula,39
+Tipo de producto,alimento,39
+Tipo de producto,comida,9
+Tipo de producto,coctel,139
+Tipo de producto,refresco,124
+Tipo de producto,mezcla de marca,137
+Tipo de producto,trago,7
+Tipo de producto,sal de fruta,64
+Tipo de producto,caldo de costilla,131
+Tipo de producto,wiskey,30
+Tipo de producto,luz neón,206
+Tipo de producto,música,68
+Tipo de producto,salsa,73
+Tipo de producto,elixir,58
+Tipo de producto,margarita,163
+Tipo de producto,copa de vidrio,118
+Tipo de producto,gin tonic,49
+Tipo de producto,medicamento,27
+Tipo de producto,fruta,91
+Tipo de producto,jugo,168
+Tipo de producto,leche,159
+Tipo de producto,galleta,136
+Tipo de producto,dinero,26
+Tipo de producto,renta,208
+Tipo de producto,cartera,201
+Tipo de producto,cuota,132
+Tipo de producto,plata,67
+Tipo de producto,recibo,184
+Tipo de producto,ensalada,122
+Tipo de producto,balance,67
+Tipo de producto,huevo,40
+Tipo de producto,verdura,140
+Tipo de producto,alimento sano,196
+Tipo de producto,carne,183
+Tipo de producto,comida sana,194
+Tipo de producto,leche vegetal,96
+Tipo de producto,comida saludable,132
+Tipo de producto,soya,189
+Tipo de producto,hamburguesa de lenteja,128
+Tipo de producto,arroz,5
+Tipo de producto,lechuga,54
+Tipo de producto,vegano,6
+Tipo de producto,leche de almendras,45
+Tipo de producto,producto vegetal,186
+Tipo de producto,tofu,19
+Tipo de producto,trigo,197
+Tipo de producto,producto natural,52
+Tipo de producto,pepino,54
+Tipo de producto,fruto,139
+Tipo de producto,fruto seco,44
+Tipo de producto,queso,29
+Tipo de producto,almendra,145
+Tipo de producto,hortaliza,101
+Tipo de producto,pescado,160
+Tipo de producto,tubérculo,147
+Tipo de producto,planta,51
+Tipo de producto,zanahoria,155
+Tipo de producto,grano,82
+Tipo de producto,vegetal,110
+Tipo de producto,pizza,79
+Tipo de producto,gaseosa,84
+Tipo de producto,gaseosas,143
+Tipo de producto,comida rápida,168
+Tipo de producto,gaseosa,165
+Tipo de producto,helado,77
+Tipo de producto,hamburguesa,77
+Tipo de producto,empanada,106
+Tipo de producto,camiseta,8
+Tipo de producto,palomitas de maíz,161
+Tipo de producto,arroz chino,37
+Tipo de producto,fuze-tea,10
+Tipo de producto,balón,5
+Tipo de producto,jugos,21
+Tipo de producto,cola,74
+Tipo de producto,pasabocas,52
+Tipo de producto,empanadas,36
+Tipo de producto,televisor,41
+Tipo de producto,plasma,10
+Tipo de producto,electrodoméstico,29
+Tipo de producto,celular,127
+Tipo de producto,lavadora,68
+Tipo de producto,teléfono,101
+Tipo de producto,telefonía,78
+Tipo de producto,equipo de sonido,19
+Tipo de producto,smart tv,74
+Tipo de producto,cámara,87
+Tipo de producto,computador,83
+Tipo de producto,torre de sonido,92
+Tipo de producto,pescadería,144
+Tipo de producto,nevera,109
+Tipo de producto,aire acondicionado,57
+Tipo de producto,televisión,203
+Tipo de producto,estufa,74
+Tipo de producto,computadora,86
+Tipo de producto,electrónico,25
+Tipo de producto,tablet,205
+Tipo de producto,equipos de sonido,21
+Tipo de producto,tableta,138
+Tipo de producto,zapato,198
+Tipo de producto,chelsea,143
+Tipo de producto,tenis,129
+Tipo de producto,calzado,143
+Tipo de producto,ropa,61
+Tipo de producto,sudadera,154
+Tipo de producto,zapatilla,194
+Tipo de producto,fútbol,195
+Tipo de producto,ropa deportiva,207
+Tipo de producto,camisa,84
+Tipo de producto,maleta,121
+Tipo de producto,sandía,112
+Tipo de producto,modelo,133
+Tipo de producto,ropa de marca,121
+Tipo de producto,chaqueta,147
+Tipo de producto,montaña,66
+Tipo de producto,buzo,196
+Tipo de producto,sport,34
+Tipo de producto,bolso,125
+Tipo de producto,uniforme,155
+Tipo de producto,gorra,202
+Tipo de producto,pantaloneta,143
+Tipo de producto,accesorio,72
+Tipo de producto,morral,177
+Tipo de producto,tienda,157
+Tipo de producto,reloj,110
+Tipo de producto,diario,97
+Tipo de producto,media,36
+Tipo de producto,suéter,136
+Tipo de producto,baloncesto,172
+Tipo de producto,franela,44
+Tipo de producto,canguro,77
+Tipo de producto,avión,27
+Tipo de producto,tiquete aéreo,110
+Tipo de producto,aviación,63
+Tipo de producto,aerolínea,137
+Tipo de producto,boleto,69
+Tipo de producto,nave,124
+Tipo de producto,tiquete,198
+Tipo de producto,empresa colombiana,67
+Tipo de producto,pasaporte,123
+Tipo de producto,low cost,89
+Tipo de producto,aerolinea,103
+Tipo de producto,banco,31
+Tipo de producto,transporte,177
+Tipo de producto,aerovías de colombia,134
+Tipo de producto,pista,193
+Tipo de producto,visa,82
+Tipo de producto,trasporte,130
+Tipo de producto,vial,7
+Tipo de producto,el más viejo del mundo,72
+Tipo de producto,equipaje,115
+Tipo de producto,transporte de carga,92
+Tipo de producto,aerolínea líder,24
+Tipo de producto,negocio,205
+Tipo de producto,crema dental,26
+Tipo de producto,doctor muelitas,146
+Tipo de producto,enjuague,152
+Tipo de producto,aseo crema de dientes diente,68
+Tipo de producto,cepillo,185
+Tipo de producto,dentífrico,73
+Tipo de producto,pasta dental,65
+Tipo de producto,pasta,85
+Tipo de producto,crema de dientes,181
+Tipo de producto,producto,117
+Tipo de producto,otro producto,55
+Tipo de producto,enjuague bucal,100
+Tipo de producto,la marca que uso a diario,87
+Tipo de producto,multimarca,61
+Tipo de producto,cepillo dental,108
+Tipo de producto,limpiador,189
+Tipo de producto,cepillo de diente,112
+Tipo de producto,ceda dental,39
+Tipo de producto,seda dental,196
+Tipo de producto,tipo,84
+Tipo de producto,cosa,197
+Tipo de producto,té,204
+Tipo de producto,chat,153
+Tipo de producto,miel,189
+Tipo de producto,papa,187
+Tipo de producto,macadamia,39
+Valor,compromiso,37
+Valor,constancia,181
+Valor,disciplina,157
+Valor,fortaleza,133
+Valor,apoyo,65
+Valor,tenacidad,12
+Valor,trabajo,107
+Valor,cuidado personal,109
+Valor,amor propio,49
+Valor,autoridad,115
+Valor,responsabilidad,26
+Valor,deber,165
+Valor,orden,37
+Valor,solidaridad,76
+Valor,armonía,118
+Valor,paz,193
+Valor,prioridad,8
+Valor,paz interior,203
+Valor,progreso,172
+Valor,cuidado ambiental,76
+Valor,respeto a la autoridad,198
+Valor,decisión,143
+Valor,respeto animal,63
+Valor,cuidado corporal,30
+Valor,responsabilidad ambiental,136
+Valor,medio ambiente,183
+Valor,protección animal,41
+Valor,tradición,86
+Valor,éxito,126
+Valor,reconocimiento,198
+Valor,trayectoria,103
+Valor,mi pasión,12
+Valor,patrocinador,96
+Valor,larga trayectoria,183
+Valor,reconocido,34
+Valor,orgullo,182
+Valor,reconocida,132
+Valor,fidelidad,65
+Valor,exitosa,180
+Valor,para todos,152
+Valor,globalización,77
+Valor,pasado,36
+Valor,identidad,73
+Valor,antiguo,79
+Valor,tradición,26
+Valor,seriedad,102
+Valor,recuerdo,200
+Valor,inspiración,119
+Valor,nombre,4
+Valor,derecho,13
+Valor,perseverancia,139
+Valor,meta,206
+Valor,legado,175
+Valor,costumbre,56
+Valor,posesión,25
+Valor,necesidad,28
+Valor,de toda la vida,26
+Valor,necesario,174
+Valor,preferencia,192
+Valor,preferida,109
+Valor,perdón,31
+Valor,acuerdo,31
